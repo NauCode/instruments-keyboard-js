@@ -16,7 +16,7 @@ const samplerViolin1 = new Tone.Sampler({
         "E0": "E0.mp3",
         "G0": "G0.mp3",
     },
-    release: 3,
+    release: 1,
     baseUrl: "assets/samples/violin1/",
 }).toDestination();
 
