@@ -13,6 +13,14 @@ Use the keys: Z,X,C,V,B,N to change between different instruments.
 - B: Bass
 - N: Ukelele
 
+Use the 'Q' key to enable/disable hold. Disabled by default.
+
+Upcoming:
+- Improved UI
+- More instruments
+- More sound quality
+- Cleaner code
+
 Fully mobile responsive.
 
 Demo: https://naucode.github.io/instruments-keyboard-js/
