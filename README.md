@@ -14,3 +14,5 @@ Use the keys: Z,X,C,V,B,N to change between different instruments.
 - N: Ukelele
 
 Fully mobile responsive.
+
+Demo: https://naucode.github.io/instruments-keyboard-js/
